@@ -1,0 +1,11 @@
+# intellij
+.idea/*
+
+# avoid accidentally leaking personal strava data
+**/export_*.zip
+**/*.csv
+**/*.gpx
+**/*.gz
+**/*.jpg
+**/*.pdf
+
