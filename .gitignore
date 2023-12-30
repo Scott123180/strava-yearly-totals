@@ -1,5 +1,6 @@
 # intellij
 .idea/*
+target/*
 
 # avoid accidentally leaking personal strava data
 **/export_*.zip
